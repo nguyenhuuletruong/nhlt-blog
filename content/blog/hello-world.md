@@ -1,6 +1,7 @@
 ---
 title: Hello World
 description: My first post on nhlt.blog
+publish: true
 ---
 
 # Hello World
