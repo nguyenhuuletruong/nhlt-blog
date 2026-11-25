@@ -6,7 +6,7 @@ tags:
   - ocr
   - llm
   - testing
-publish: false
+publish: true
 ---
 
 # Vai trò của OCR khi LLM quá rẻ và nhanh
