@@ -1,34 +1,39 @@
 ---
-
-title: Value Investing  
-stage: seed  
-created: 2026-11-03  
+title: Value Investing
+stage: seed
+created: 2026-11-03
 tags:
-
-- investing
-    
-
+  - investing
+publish: true
 ---
 
 # Value Investing
 
+A collection of notes exploring the principles and practice of value investing.
+
+This note serves as an entry point to my thinking about investing in businesses based on their underlying value rather than short-term market movements.
+
 ## Core idea
 
-Ghi lại ý tưởng hoặc nhận định ban đầu về chủ đề này.
+Value investing is an investment approach focused on identifying securities trading below their estimated intrinsic value.
 
-## Questions
+The goal is to make investment decisions based on business fundamentals, valuation, and a margin of safety.
 
-- Mình đang muốn tìm hiểu điều gì?
-    
-- Điều gì mình chưa hiểu rõ?
-    
-- Có giả định nào cần kiểm chứng?
-    
+## Key concepts
 
-## Related notes
+- [[Intrinsic Value]]: What is a business actually worth?
+- [[Margin of Safety]]: How much discount should I require before investing?
 
-- Một phần quan trọng của Value Investing là
-[[Margin of Safety]].
+## Questions to explore
 
-Mình cũng muốn tìm hiểu thêm về
-[[Intrinsic Value]].
+- How can intrinsic value be estimated?
+- How should uncertainty and business quality affect valuation?
+- How can a margin of safety protect against errors in analysis?
+- What makes a business worth holding for the long term?
+
+## Related topics
+
+- Business analysis
+- Financial statements
+- Capital allocation
+- Long-term investing

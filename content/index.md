@@ -1,7 +1,31 @@
 ---
-title: Welcome to Quartz
+title: Home
 publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome to my digital space
+
+This is my personal space for learning, thinking, and sharing ideas.
+
+I explore topics that interest me, document what I learn, and connect ideas across different fields.
+
+## Explore
+
+### Blog
+
+Thoughts, perspectives, and ideas that I want to develop into complete articles.
+
+[Explore the Blog](blog/)
+
+### Digital Garden
+
+A growing collection of notes, concepts, and ideas. Some are still taking shape, while others have been refined over time.
+
+[Explore the Garden](garden/)
+
+## Topics
+
+- Product Management
+- Technology
+- Investing
+- Personal Knowledge Management
