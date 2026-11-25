@@ -11,12 +11,6 @@ I explore topics that interest me, document what I learn, and connect ideas acro
 
 ## Explore
 
-### Blog
-
-Thoughts, perspectives, and ideas that I want to develop into complete articles.
-
-[Explore the Blog](blog/)
-
 ### Digital Garden
 
 A growing collection of notes, concepts, and ideas. Some are still taking shape, while others have been refined over time.
